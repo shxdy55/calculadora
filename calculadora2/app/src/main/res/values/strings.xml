@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculadora</string>
+
+    <string name="txt_valor1">valor 1</string>
+    <string name="txt_valor2">valor 2</string>
+    <string name="rb_sumar">suma</string>
+    <string name="rb_restar">restar</string>
+    <string name="rb_producto">multi</string>
+    <string name="rb_divicion">division</string>
+    <string name="button">calcula</string>
+    <string name="tv_resultado">resultado</string>
+</resources>
